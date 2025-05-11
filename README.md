@@ -6,7 +6,7 @@
 <h1><a href="https://github.com/mgpavlov/OnlineGroceryStore-Application">Online Grocery Store</a></h1>
 <h2>Developed an end to end e-Commerce web Application using Spring MVC.</h2>
 </td>
-<td align="center" width="33%"><img src="https://avatars0.githubusercontent.com/u/30524177?s=460&v=4" alt="" />
+<td align="center" width="33%">
 Authors: 
 <strong>
 <a title="LinkedIn Gnapika Kandula" href="https://www.linkedin.com/in/mihail-georgiev-pavlov/" target="_blank">
