@@ -7,11 +7,16 @@
 <h2>Developed an end to end e-Commerce web Application using Spring MVC.</h2>
 </td>
 <td align="center" width="33%"><img src="https://avatars0.githubusercontent.com/u/30524177?s=460&v=4" alt="" />
-<img src="https://www.linkedin.com/favicon.ico" alt="LinkedIn" />
-Author: 
+Authors: 
 <strong>
-<a title="LinkedIn Mihail Pavlov" href="https://www.linkedin.com/in/mihail-georgiev-pavlov/" target="_blank">
-Mihail Pavlov
+<a title="LinkedIn Gnapika Kandula" href="https://www.linkedin.com/in/mihail-georgiev-pavlov/" target="_blank">
+  Gnapika Kandula
+  <a title="LinkedIn Sree Durga" href="https://www.linkedin.com/in/mihail-georgiev-pavlov/" target="_blank">
+    Sree Durga
+    <a title="LinkedIn Venkata Tishitha" href="https://www.linkedin.com/in/mihail-georgiev-pavlov/" target="_blank">
+      Venkata Tishitha
+</a>
+  </a>
 </a>
 </strong></p>
 </td>
